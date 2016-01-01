@@ -1,2 +1,2 @@
 # ipa
-A Python based Intelligent Personal Assistant
+A Python based Intelligent Personal Assistant.
